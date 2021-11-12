@@ -9,14 +9,15 @@ The purpose of this project is to understand how the bikeshare business (Citybik
 
 To understand the bike share program in New York City, we have created several analysis. To explore further, we are using Citi Bike data released to public and slecting 2019 August month, because summer months would have lightly more traffic.
 
-    1. Checkout Times for Users:
+1. Checkout Times for Users:
     
-    In this analysis, we are plotting the trip duration for all the bikes in the dataset. From the image below, 
-        - We can see that majority of the trip durations are under and hour.
-        - The highest number of trips (146.7K) are at 5 min mark.
-        - There are less than 1000 tripsvwith more than an hour of trip duration
+In this analysis, we are plotting the trip duration for all the bikes in the dataset. From the image below, 
+
+- We can see that majority of the trip durations are under and hour. 
+- The highest number of trips (146.7K) are at 5 min mark.
+- There are less than 1000 tripsvwith more than an hour of trip duration
         
-    add mage here
+ [](https://github.com/Nikhila999/bikesharing/blob/main/images/Checkout_Times_by_Users.png)
     
     2. Checkout Times by Gender:
     
